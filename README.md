@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cengxingyuan22
+- 👀 I’m interested in Computer Science student exploring the intricacies of C. 
+- 🌱 Fascinated by low-level programming and systems software.
